@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DemonEach
-- 👀 I’m interested in Java, Rust, C/C++, JS (Vue, React, Angular), Postgres
+- 👀 I’m interested in Java, Rust, C/C++, JS (Vue, React), Postgres
 - 🌱 I’m currently learning a lot of different stuff :)
 - 📫 You can reach me
   * telegram: @DemonEach,
-  * discord: DemonEach#7104
+  * discord: DemonEach
 
 <!---
 DemonEach/DemonEach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

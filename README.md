@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DemonEach
-- 👀 I’m interested in Java, Rust, C/C++, JS (Vue, React), Postgres
-- 🌱 I’m currently learning a lot of different stuff :)
+- 👀 I’m interested in Java, Rust, C/C++, GO, Postgres
 - 📫 You can reach me
   * telegram: @DemonEach,
   * discord: DemonEach
